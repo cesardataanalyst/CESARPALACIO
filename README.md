@@ -1,4 +1,4 @@
-# CESARP ALACIO | Data Analyst en formación
+# CESAR PALACIO | Data Analyst en formación
 # Hola, soy César Palacio 
 ## Analista de datos junior
 Me apasiona transformar los datos en información útil para los negocios.
@@ -28,7 +28,15 @@ Actualmente desarrollo proyectos utilizando:
 - Pandas
 - Power BI
 - GitHub
-## Contacto
+- ## Proyectos de mi portafolio
+### Análisis de clientes con SQL
+Consultas SQL para:
+- Segmentación de clientes
+- Análisis de ingresos
+- Desempeño de ventas
+Repositorio:
+[SQL-Análisis-de-clientes](#)
+  ## Contacto
 LinkedIn: 
 www.linkedin.com/in/cesar-palacio-data
 Correo electrónico:
