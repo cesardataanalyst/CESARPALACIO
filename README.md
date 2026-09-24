@@ -1,4 +1,4 @@
-# CESAR PALACIO | Data Analyst en formación
+# CESAR PALACIO | Data Analyst Junior
 # Hola, soy César Palacio 
 ## Analista de datos junior
 Me apasiona transformar los datos en información útil para los negocios.
